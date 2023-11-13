@@ -5,3 +5,7 @@
 ##### This is our H5
 ###### This is our H6
 
+
+## That's how we add a image with the markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
